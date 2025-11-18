@@ -1,4 +1,4 @@
-45f932119fc7660a73fa556a48350c30 *DESCRIPTION
+d8e8de0529a49781fce6587c5aec0938 *DESCRIPTION
 04b082bb36e481985b3151f7fc227bb5 *LICENSE
 3a920e58dac980c1851b36ca2fe88e6b *NAMESPACE
 9c4ccc82eb9e5898e2a755e6797a1833 *R/RcppExports.R
@@ -7,7 +7,7 @@ f7d98feead750f842e229d98321477a3 *R/identify.R
 daf246d2559a7df53698b1714f020b7a *src/Makevars
 daf246d2559a7df53698b1714f020b7a *src/Makevars.win
 3df0b3d3d97d83dad739f53e999c4572 *src/RcppExports.cpp
-7024e52bd003df4c4b1c29bc29ce9e40 *src/algebra.cpp
+e04b7bbd134cdb7fdd8769ed734895ff *src/algebra.cpp
 17bcb4658d380b0b707703bf348d2f9a *src/algebra.h
 977c759f5ca75ab046aac32012aa85a7 *src/identification.cpp
 1453d31c538a9370099e5e5a5eb78adf *src/identification.h
@@ -17,7 +17,7 @@ ea17f791ae988a6c93fd585bb445cb0a *src/rbridge.cpp
 49c42645dda1732f591c2cb99386363c *tests/testthat.R
 07aac9a9dcbaed0c196a124721635fc2 *tests/testthat/test-a-zero.R
 7eacae1c3b0d748853f30e3cd0201b33 *tests/testthat/test-fraction.R
-0861feb66717a17a70ba91ba4ddac056 *tests/testthat/test-gmp.R
+62ee3ba75c0ea286681ad15932fb59a9 *tests/testthat/test-gmp.R
 0d0389cbf0bdd2927bd984f94ea52d30 *tests/testthat/test-input-validation.R
 9b5571ac2e645761ae2a2290038bf162 *tests/testthat/test-minimal.R
 e4bfeb064e02d5c34266a4c8d54bce2a *tests/testthat/test-multiple-components.R
